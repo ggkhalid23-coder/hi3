@@ -1,1 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nexora — Terms of Service</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #0f1020;
+      color: #f4f4f8;
+      line-height: 1.7;
+    }
+    .container {
+      max-width: 850px;
+      margin: 0 auto;
+      padding: 50px 24px;
+    }
+    h1, h2 { color: #b58cff; }
+    h1 { font-size: 42px; margin-bottom: 5px; }
+    .updated { color: #aaa; }
+    .card {
+      background: #181a2b;
+      border: 1px solid #2b2e46;
+      border-radius: 14px;
+      padding: 28px;
+      margin-top: 25px;
+    }
+    a { color: #b58cff; }
+    footer {
+      margin-top: 40px;
+      color: #888;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <main class="container">
+    <h1>🛡️ Nexora</h1>
+    <p class="updated">Terms of Service</p>
+
+    <div class="card">
+      <p><strong>Last updated:</strong> August 14, 2026</p>
+
+      <h2>1. Acceptance of Terms</h2>
+      <p>
+        By using Nexora, you agree to these Terms of Service. If you do not
+        agree with these terms, please do not use the bot.
+      </p>
+
+      <h2>2. Use of Nexora</h2>
+      <p>
+        Nexora is a Discord bot designed to provide moderation, security,
+        automation, logging, and community features. You agree to use Nexora
+        only for lawful purposes and in accordance with Discord's rules and
+        policies.
+      </p>
+
+      <h2>3. Server Permissions</h2>
+      <p>
+        Nexora may require Discord permissions to perform moderation,
+        security, logging, and other requested functions. Server owners and
+        administrators are responsible for reviewing the permissions granted
+        to Nexora and configuring the bot appropriately.
+      </p>
+
+      <h2>4. Moderation and Security</h2>
+      <p>
+        Nexora may automatically take actions such as deleting messages,
+        issuing warnings, muting members, or applying other moderation
+        actions when configured by authorized server staff. Nexora does not
+        guarantee that every harmful, abusive, or malicious action will be
+        detected.
+      </p>
+
+      <h2>5. Availability</h2>
+      <p>
+        Nexora is provided on an "as is" and "as available" basis. Features
+        may be changed, temporarily unavailable, or discontinued without
+        notice.
+      </p>
+
+      <h2>6. User Responsibility</h2>
+      <p>
+        Users and server administrators are responsible for their own use of
+        Nexora and for complying with applicable laws, Discord's Terms of
+        Service, and Discord's Community Guidelines.
+      </p>
+
+      <h2>7. Abuse</h2>
+      <p>
+        You must not intentionally abuse, disrupt, exploit, or attempt to
+        interfere with Nexora or its infrastructure.
+      </p>
+
+      <h2>8. Changes to These Terms</h2>
+      <p>
+        These Terms may be updated from time to time. Continued use of Nexora
+        after changes are published means you accept the updated Terms.
+      </p>
+
+      <h2>9. Contact</h2>
+      <p>
+        For questions or support regarding Nexora, contact the Nexora
+        development team through the official support channel associated with
+        the bot.
+      </p>
+
+      <h2>10. Disclaimer</h2>
+      <p>
+        Nexora is an independent Discord application. It is not operated,
+        sponsored, or endorsed by Discord Inc. unless explicitly stated.
+      </p>
+    </div>
+
+    <footer>
+      © 2026 Nexora. All rights reserved.
+    </footer>
+  </main>
+</body>
+</html>
 
